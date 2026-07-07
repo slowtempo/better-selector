@@ -33,6 +33,9 @@ results = betterselector.multi_selection("Select Tasks to Execute", ["Deploy", "
 Output:
 
 Plaintext
+
+
+
 ♦ Select Tasks to Execute: (Space: Toggle, Enter: Done)
 
   [ ] Deploy
@@ -41,6 +44,7 @@ Plaintext
   [x] Generate Docs
 Controls
 Up / Down (or k / j): Navigate the list
+
 
 Space: Toggle selection
 
