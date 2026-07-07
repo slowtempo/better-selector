@@ -4,7 +4,8 @@ A simple, interactive terminal selection system for Python.
 
 ## Quick Start
 Ensure you have `rich` installed:
-```bash
+
+
 pip install rich
 Usage
 Single Selection
