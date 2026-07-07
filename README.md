@@ -34,8 +34,6 @@ Output:
 
 Plaintext
 
-
-
 ♦ Select Tasks to Execute: (Space: Toggle, Enter: Done)
 
   [ ] Deploy
